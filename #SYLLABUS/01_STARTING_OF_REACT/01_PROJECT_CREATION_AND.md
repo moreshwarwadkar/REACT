@@ -29,8 +29,9 @@ Write Following Code in 'main.jsx'</br></br>
 import React from 'react'</br>
 import { createRoot } from 'react-dom/client'</br></br>
 
-createRoot(document.getElementById('root')).render('MR UNiK')</br>
+createRoot(document.getElementById('root')).render('MR UNiK')</br></br>
 
+It Will Print 'Mr UNiK'
 ------------------------------------------------------------------
 
 </br></br>
