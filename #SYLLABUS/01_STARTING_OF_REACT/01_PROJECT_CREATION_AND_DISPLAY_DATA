@@ -1,39 +1,39 @@
 # STARTING OF REACT 
 
 
-<h2>STEPS TO CREATE A PROJECT : </h2> </br></br>
+----- ----- STEPS TO CREATE A PROJECT : 
 
-`- npm create vite@latest` </br>
-`- Press Enter`</br>
-`- Project Name :`</br>
-`- Select a Framework : React`</br>
-`- Select a Varient : JavaScript`</br>
-`- Use Vite 8 Beta : No`</br>
-`- Install With npm and Start Now? : No`</br>
+- npm create vite@latest
+- Press Enter
+- Project Name :
+- Select a Framework : React
+- Select a Varient : JavaScript
+- Use Vite 8 Beta : No
+- Install With npm and Start Now? : No
 
-
-`- cd react_project` </br>
-`- npm install`/br></br>
-
-<h2>INSIDE PROJECT : </h2> </br></br>
-
-`- Delete src` </br>
-`- create new 'src' file` </br>
-`- create main.jsx [in src folder]` </br></br></br></br>
+- cd react_project
+- npm install
 
 
-<h2>INSIDE THE `main.jsx` : </h2> </br></br>
 
-Write Following Code in 'main.jsx'</br></br>
+----- ----- INSIDE PROJECT :
 
-import React from 'react'</br>
-import { createRoot } from 'react-dom/client'</br></br>
+- Delete src
+- create new 'src' file
+- create main.jsx [in src folder]
 
-createRoot(document.getElementById('root')).render('MR UNiK')</br></br>
 
+
+----- ----- INSIDE THE main.jsx :
+
+Write Following Code in 'main.jsx'
+
+import React from 'react'
+import { createRoot } from 'react-dom/client'
+
+createRoot(document.getElementById('root')).render('MR UNiK')
+
+----- TO RUN PROJECT : npm run dev
+OUTPUT : 
 It Will Print 'Mr UNiK'
 ------------------------------------------------------------------
-
-</br></br>
-`TO RUN PROJECT : npm run dev`</br></br>
-
