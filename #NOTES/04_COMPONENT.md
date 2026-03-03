@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f89cce55-2341-478b-bab4-759849f776ad" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75e9e50a-6694-4594-b537-7543e07a6146" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c51ae74-b4b2-49e7-8857-e9ef3c8eaa94" /><mark>----- COMPONENT -----<mark>
+<mark>----- COMPONENT -----<mark>
 </br>
 </br>
 - Create Component Folder in `'src'`. (First Letter Should be Capital)
@@ -12,7 +12,7 @@
 <img width="1920" height="1080" alt="Screenshot 2026-03-03 085412" src="https://github.com/user-attachments/assets/54558818-94d9-4bc2-b03d-e6432e7ba6b1" />
 </br>
 </br>
-- `class ComponentA` : Here We can give any name to the class.
+-  `class ComponentA` : Here We can give any name to the class.
 - `export default ComponentA` : This is Important Line. This will export data. By using this we can access this class in another file.
 </br></br>
 
