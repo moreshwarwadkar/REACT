@@ -1,4 +1,4 @@
-<!-- ----- ----- OPEN "main.jsx" FILE AND WRITE FOLLOWING CODE -->
+<mark> ----- ----- OPEN "main.jsx" FILE AND WRITE FOLLOWING CODE </mark>
 
 - Here We are Using Two Method to Display Data on Screen.
 
