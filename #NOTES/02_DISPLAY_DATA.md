@@ -12,7 +12,7 @@ import { createRoot } from 'react-dom/client'
 
 <mark>----- ----- /* First Method */</mark>
 
-- Here we are using <> insted of using <div> tag.
+- Here we are using <> insted of using <div></div> tag.
 
 createRoot(document.getElementById('root')).render(
 
