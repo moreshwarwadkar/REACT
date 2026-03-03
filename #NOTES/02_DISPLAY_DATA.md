@@ -10,7 +10,7 @@ import React, { createElement } from 'react'
 import { createRoot } from 'react-dom/client'
 
 
------ ----- /* First Method */
+<mark>----- ----- /* First Method */</mark>
 
 - Here we are using <> insted of using <div> tag.
 
@@ -35,7 +35,7 @@ createRoot(document.getElementById('root')).render(
 
 
 
------ ----- /* SECOND METHOD */
+<mark>----- ----- /* SECOND METHOD */</mark>
 - Here We are creating Elements.
 - We use [] To Display Both Varibles at a Time.
 
