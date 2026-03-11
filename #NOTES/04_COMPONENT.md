@@ -1,3 +1,57 @@
+----- COMPONENTS :</br>
+- React Components are a Core Building Block of any react application.</br>
+- Components are reusable block of code that can be imported and exported.</br>
+- Webpages are divided into multiple components/Files which are join together in the parent component.</br></br>
+
+
+----- Rules Of Component : </br>
+1) Component Name Should Start With Capital Letter</br>
+2) Components File Should be save with .jsx extention.</br>
+3) Components Can Be Represented in Two Ways : 1) Paired Tag 2) Self Closing Tag.</br></br>
+
+
+
+----- Types of React Componenets :</br>
+1) Function Based Component</br>
+2) Class Based Component</br></br>
+
+
+----- ----- (1) Class Based Component :</br></br>
+
+- It uses ES-6 Classes.</br>
+- React Library must be imported.</br>
+- Requires inheritance from React.Component.</br>
+- React.Component is a Base Class where all the methods and property exist.</br>
+- Whenever we are using CBC (Class Based Component) render() is mandatory.</br></br>
+
+
+----- ----- (2) Function based component :</br></br>
+
+- Function Based Components are JavaScript Functions that returns jsx elements.</br>
+- Function Based Components are simpler than Class Based Components and Widely used in Modern React Application.</br>
+- Before React Hooks they ware Stateless Functionalities.</br>
+- With Hooks Function based Components can manage state and life cycle behaviour.</br>
+- Mostly we are using Arrow Function for Function Based Component.</br></br>
+
+
+Q.1) Difference Between Class Based Component and Function Based Component.</br></br>
+
+- CBC : It uses ES-6 Classes</br>
+- FBC : It does not uses ES-6 Classes.</br></br>
+
+- CBC : React Library Must be Imported.</br>
+- FBC : React Library Not Required.</br></br>
+
+- CBC : We Need to Inherit React.Component.</br>
+- FBC : No Need to Inherit.</br></br>
+
+- CBC : Render() Method is Mandatory.</br>
+- FBC : Render() is not Mandatory.</br></br>
+
+===================================================================</br></br>
+
+
+
 <mark>----- COMPONENT -----<mark>
 </br>
 </br>
