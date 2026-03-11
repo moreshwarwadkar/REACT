@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75e4c051-5a7a-42b7-8efa-ede8862d80b6" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a98f4b8-80de-4457-8c6b-488d7008d0a2" />-----> PROPS :<br/><br/>
+-----> PROPS :<br/><br/>
 
 - Props are nothing but properties.<br/>
 - Props are used to share the data from one component to another component.<br/>
