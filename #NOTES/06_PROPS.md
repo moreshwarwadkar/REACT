@@ -1,4 +1,4 @@
------> PROPS :<br/><br/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75e4c051-5a7a-42b7-8efa-ede8862d80b6" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a98f4b8-80de-4457-8c6b-488d7008d0a2" />-----> PROPS :<br/><br/>
 
 - Props are nothing but properties.<br/>
 - Props are used to share the data from one component to another component.<br/>
@@ -36,3 +36,20 @@
 #-- main.jsx <br/><br/>
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-11 201137" src="https://github.com/user-attachments/assets/da867245-e274-4e6f-ba83-ea1b69055bb3" /><br/><br/>
+
+
+- Here the data will be send from Parent.jsx to Child.jsx<br/><br/>
+===========================================<br/><br/><br/><br/>
+
+- SENDING DATA FOR ALL DATA TYPES :<br/>
+- HERE WE HAVE 2 WAYS :<br/><br/>
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-11 201930" src="https://github.com/user-attachments/assets/cb0d4b7c-aa6e-483a-b357-36fd4dd807ff" /><br/><br/>
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-11 202043" src="https://github.com/user-attachments/assets/897fea76-8577-4449-aaa1-cb271fcb7dd9" /><br/><br/>
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-11 202133" src="https://github.com/user-attachments/assets/2b6cdd86-a4e3-4cc5-9c7f-018fd83c3042" /><br/><br/>
+
+
+
+
