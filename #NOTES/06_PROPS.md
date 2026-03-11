@@ -22,4 +22,17 @@
 - State : It is used to handle interactive data that changes over a time.<br/><br/>
 
 
-========================================================
+========================================================<br/><br/><br/>
+
+
+#-- Parent.jsx <br/><br/>
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-11 200802" src="https://github.com/user-attachments/assets/e2d62249-24a8-4f78-b6c5-a27986dc635d" /><br/><br/>
+
+#-- Child.jsx <br/><br/>
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-11 200935" src="https://github.com/user-attachments/assets/c7c16ff1-a1be-4f75-be71-8996656ca960" /><br/><br/>
+
+#-- main.jsx <br/><br/>
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-11 201137" src="https://github.com/user-attachments/assets/da867245-e274-4e6f-ba83-ea1b69055bb3" /><br/><br/>
