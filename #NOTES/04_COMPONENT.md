@@ -1,6 +1,14 @@
 <mark>----- COMPONENT -----<mark>
 </br>
 </br>
+- Here We have a Two Types :</br>
+  1) Class Based Component (CBC)</br>
+  2) Function Based Component (FBC)</br></br>
+</br>
+</br>
+================================================</br>
+  1) Class Based Component (CBC)</br></br>
+
 - Create Component Folder in `'src'`. (First Letter Should be Capital)
 - Inside that Folder Create a Component File. (First Letter Should be Capital)
 - In Our Case We Have Created `ComponentA.jsx`.( FileName With Extention .jsx)
@@ -22,3 +30,12 @@
 - To Access this in `main.jsx` File, We have to import First : `import ComponentA from './Components/ComponentA';`
 - Then we have to write a Class Name in Angular Brackets.
 - Here we have to ways to write `1) <ComponentA/>  ` `2) <ComponentA></ComponentA>`
+
+</br></br>
+================================================</br>
+2) Function Based Component (FBC)</br></br>
+- In Function Based Component (FBC) we have same Steps. (DIFFERENT CODE)</br></br>
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-11 193236" src="https://github.com/user-attachments/assets/62826bb1-a932-403f-893a-fb65046839c5" /></br></br>
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-11 193542" src="https://github.com/user-attachments/assets/7a3636fb-e67e-4ee6-bc59-b1b0d65960c0" />
